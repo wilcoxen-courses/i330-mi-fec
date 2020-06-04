@@ -8,9 +8,9 @@ the 2016 election for zip codes in Michigan.
 ### Input Data
 
 There are three main input files. The first, **mi_by_party.csv**, is 
-provided with in the repository. It was built from the Federal Election 
+provided in the repository. It was built from the Federal Election 
 Commission's data on 2016 presidential political contributions aggregated 
-up to parties. The remaining files, **cb_2018_us_zcta510_500k.zip**, 
+up to parties. The remaining files, **cb_2018_us_zcta510_500k.zip** and 
 **cb_2018_us_state_500k.zip**, are cartographic boundary shapefiles from 
 the Census. They should be downloaded from the Census via the Cartographic 
 Boundary Shapefiles link on the class web page under Census Shapefiles. 
